@@ -1,6 +1,7 @@
 # Advanced-Business-Analytics-Dashboard-Project
 
-![Screenshot 2024-06-09 152431](https://github.com/divyapanseriya/Advanced-Business-Analytics-Dashboard-Project/assets/158155079/c17af7fd-0d86-43f9-9c6d-678eb290168c)
+![Untitledvideo-MadewithClipchamp1-ezgif com-video-to-gif-converter](https://github.com/divyapanseriya/Advanced-Business-Analytics-Dashboard-Project/assets/158155079/5274c301-cb06-4af6-ba5f-d81d3ef5689d)
+
 This project aims to harness advanced Excel functionalities to create dashboards that provide comprehensive business insights for strategic decision-making.
 Profit View Dashboard: Focuses on financial metrics, customer demographics, and product insights, with a keen eye on trends affecting profit.
 Timeframe Dashboard: Analyzes revenue patterns over different periods, emphasizing quarterly and weekday vs. weekend performance.
